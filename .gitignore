@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.tmp
+*.json
+test_db.json
+.DS_Store
+.env
+.idea/
+.vscode/
